@@ -75,7 +75,7 @@ data_files += [ ('insightface/thirdparty/face3d/mesh/cython', data_mesh) ]
 ext_modules=cythonize(extensions)
 setup(
     # Metadata
-    name='insightface',
+    name='insightface-240127',
     version=VERSION,
     author='InsightFace Contributors',
     author_email='contact@insightface.ai',
